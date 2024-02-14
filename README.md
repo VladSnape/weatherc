@@ -1,7 +1,6 @@
 # weatherc
 
-A new Flutter project.
-
+weatherc is a weaher forecast app  , it is my first try to create a clean architectured cubbit bloc and uncle bob clean architecture theory , it haschange theme and it gets the data from openapi weatherapi free api  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
